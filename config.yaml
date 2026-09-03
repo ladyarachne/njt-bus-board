@@ -1,0 +1,11 @@
+stops:
+  - route: "1"
+    stop_id: "19179"
+
+  - route: "31"
+    stop_id: "33218"
+
+  - route: "94"
+    stop_id: "19033"
+
+refresh_seconds: 30
